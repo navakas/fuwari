@@ -2,7 +2,7 @@
 This is my journal site, built mainly for me to stores memories and easy links to photos of travel, and to share them with anyone that might be interested.
 A few non-travel things may be posted on occasion.
 Some photos are OK, some a bit 'meh'...
-Send me a message at andrius at andrius.au if you feel like saying hello.
+Send me a message at cloud@andrius.au if you feel like saying hello.
 
 ## Tech stuff
 This site is made of static html pages, hosted for free on [Cloudflare](https://cloudflare.com).
