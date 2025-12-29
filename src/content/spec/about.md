@@ -2,8 +2,11 @@
 
 This is my journal site, built mainly for me to store memories and easy links to photos of travel, and to share them with anyone that might be interested.
 Some trips have diary entries, others just links to photos.\
-A few non-travel things may be posted on occasion.
-Some photos are OK, some a bit 'meh'...
+A few non-travel things may be posted on occasion.\
+The entries are catalogued this way:\
+Each entry has a single Category (eg Travel)\
+Each entry has one or more Tags (eg Country, City)\
+The ['Diary'](../archive/?tag=Diary) tag indicates a longer text content, rather than just a photo link with minimal text.\
 Send me a message at <cloud@andrius.au> if you feel like saying hello.
 
 ## Tech stuff
