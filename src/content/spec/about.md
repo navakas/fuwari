@@ -1,3 +1,5 @@
+> *I hope to one day live in precedented times*
+
 # About
 
 This is my journal site, built mainly for me to store memories and easy links to photos of travel, and to share them with anyone that might be interested.
